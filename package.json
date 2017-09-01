@@ -1,0 +1,13 @@
+{
+  "name": "KBCAPP",
+  "main": "index.html",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "dependencies": {
+    
+  }
+}
